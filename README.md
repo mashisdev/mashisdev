@@ -1,6 +1,14 @@
-## Hi there, I'm Manu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<div align="center">
+  <h1>Hi there! I'm Manu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Greeting GIF" title="Greeting GIF"></h2>
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet GIF" title="Comet GIF" width="30" />About me
+I'm an Argentine backend development student in the *TalentoTech* program at the [*Agencia de Habilidades para el Futuro*](https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro), with a strong aspiration to work in the technology area of a healthcare company. I'm eager to learn and grow, and I believe technology can play a crucial role in improving healthcare outcomes.
+
+
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" alt="Skills GIF" title="Skills GIF"><b> Skills</b>
 
 ### 💻 Languages:
 [![Java](https://img.shields.io/badge/Java-%238B4513?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)

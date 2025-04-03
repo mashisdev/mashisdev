@@ -6,9 +6,6 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet GIF" title="Comet GIF" width="30" />About me
 I'm an Argentine backend development student in the *TalentoTech* program at the [*Agencia de Habilidades para el Futuro*](https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro), with a strong aspiration to work in the technology area of a healthcare company. I'm eager to learn and grow, and I believe technology can play a crucial role in improving healthcare outcomes.
 
-
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" alt="Skills GIF" title="Skills GIF"><b> Skills</b>
 
 ### 💻 Languages:
@@ -18,6 +15,7 @@ I'm an Argentine backend development student in the *TalentoTech* program at the
 
 ### 🧰 Frameworks & Libraries:
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3670A0?style=for-the-badge&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ### :floppy_disk: Databases:

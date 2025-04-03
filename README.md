@@ -13,7 +13,7 @@ I'm an Argentine backend development student in the *TalentoTech* program at the
 
 ### 💻 Languages:
 [![Java](https://img.shields.io/badge/Java-%238B4513?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### 🧰 Frameworks & Libraries:

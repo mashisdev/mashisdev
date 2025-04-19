@@ -4,7 +4,7 @@
 </div>
 
 ## <img src="https://github.com/user-attachments/assets/76dc0886-6414-45dc-bcc8-6451efadfeac" alt="Comet GIF" title="Comet GIF" width="20" /> About me
-I'm an Argentine backend development student in the *TalentoTech* program at the [*Agencia de Habilidades para el Futuro*](https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro), with a strong aspiration to work in the technology area of a healthcare company. I'm eager to learn and grow, and I believe technology can play a crucial role in improving healthcare outcomes.
+I'm an Argentine backend development student in the TalentoTech program at the [Agencia de Habilidades para el Futuro](https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro), with a strong aspiration to work in the technology area of a healthcare company. I'm eager to learn and grow, and I believe technology can play a crucial role in improving healthcare outcomes.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24" alt="Skills GIF" title="Skills GIF"> Skills
 

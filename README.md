@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! I'm Manu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Greeting GIF" title="Greeting GIF"></h2>
-  <img src="https://media1.tenor.com/m/JNrPF3XuHXIAAAAd/java-duke.gif" width="400" alt="Java Duke GIF" title="Java Duke Everywhere">
+  <img src="https://media1.tenor.com/m/JNrPF3XuHXIAAAAd/java-duke.gif" width="350" alt="Java Duke GIF" title="Java Duke Everywhere">
 </div>
 
 ## <img src="https://github.com/user-attachments/assets/76dc0886-6414-45dc-bcc8-6451efadfeac" alt="Comet GIF" title="Comet GIF" width="20" /> About me

@@ -32,5 +32,5 @@ I'm a backend developer from Argentina, graduated from both the **TalentoTech** 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### <img src="https://github.com/user-attachments/assets/07254662-defd-4310-843b-a09901b25f02" width ="21" alt="Skills GIF" title="Skills GIF"> Currently learning:
+### <img src="https://github.com/user-attachments/assets/07254662-defd-4310-843b-a09901b25f02" width ="20" alt="Skills GIF" title="Skills GIF"> Currently learning:
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)

@@ -4,7 +4,7 @@
 </div>
 
 ## <img src="https://github.com/user-attachments/assets/76dc0886-6414-45dc-bcc8-6451efadfeac" alt="Comet GIF" title="Comet GIF" width="20" /> About me
-I'm a backend developer from Argentina, graduated from both the **TalentoTech** program at the *[Agencia de Habilidades para el Futuro](https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro)* and [Platzi](https://platzi.com/p/manuelsr/ruta/7170-web-java/diploma/detalle/), with a specialization in backend development using **Java**. My goal is to contribute to the technology sector within the **healthcare industry**, where I believe innovation can make a real difference in people's lives. I'm passionate about using code to solve real-world problems, and I’m constantly seeking opportunities to grow, collaborate, and make a positive impact through technology.
+I'm a backend developer from Argentina, graduated from both the **TalentoTech** program at the [Agencia de Habilidades para el Futuro](https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro) and [Platzi](https://platzi.com/p/manuelsr/ruta/7170-web-java/diploma/detalle/), with a specialization in backend development using **Java**. My goal is to contribute to the technology sector within the **healthcare industry**, where I believe innovation can make a real difference in people's lives. I'm passionate about using code to solve real-world problems, and I’m constantly seeking opportunities to grow, collaborate, and make a positive impact through technology.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24" alt="Skills GIF" title="Skills GIF"> Skills
 

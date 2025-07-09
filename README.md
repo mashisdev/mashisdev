@@ -14,13 +14,16 @@ I'm a backend developer from Argentina, graduated from both the **TalentoTech** 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### 🧰 Frameworks & Libraries:
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3670A0?style=for-the-badge&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 ### :floppy_disk: Databases:
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### <img src="https://github.com/user-attachments/assets/07254662-defd-4310-843b-a09901b25f02" width ="20" alt="Testing GIF" title="Testing GIF"> Testing:
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3670A0?style=for-the-badge&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ### ♾️ Devops:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -35,6 +38,6 @@ I'm a backend developer from Argentina, graduated from both the **TalentoTech** 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### <img src="https://github.com/user-attachments/assets/07254662-defd-4310-843b-a09901b25f02" width ="20" alt="Skills GIF" title="Skills GIF"> Currently learning:
+### <img src="https://github.com/user-attachments/assets/88fcc5ca-e49b-4113-af65-ca5430ca0457" width ="20" alt="Learning GIF" title="Learning GIF"> Currently learning:
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)

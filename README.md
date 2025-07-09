@@ -34,7 +34,7 @@ I'm a backend developer from Argentina, graduated from both the **TalentoTech** 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-### 📦 Microservices:
+### <img src="https://github.com/user-attachments/assets/5852398b-203f-49c8-ac2f-05434ded8015" alt="Microservices GIF" width="20" /> Microservices:
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 ### :art: Frontend:

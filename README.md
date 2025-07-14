@@ -45,3 +45,9 @@ I'm a backend developer from Argentina, graduated from both the **TalentoTech** 
 ### <img src="https://github.com/user-attachments/assets/88fcc5ca-e49b-4113-af65-ca5430ca0457" width ="20" alt="Learning GIF" title="Learning GIF"> Currently learning:
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mashisdev&show_icons=true&locale=en&theme=apprentice" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashisdev&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="Top Langs" />
+</p>

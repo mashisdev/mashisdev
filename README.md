@@ -27,7 +27,7 @@ I'm a backend developer from Argentina, graduated from both the **TalentoTech** 
 
 ### <img src="https://github.com/user-attachments/assets/07254662-defd-4310-843b-a09901b25f02" width ="20" alt="Testing GIF" title="Testing GIF"> Testing:
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3670A0?style=for-the-badge&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[![Mockito](https://img.shields.io/badge/Mockito-8892BF?style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
 
 ### <img src="https://github.com/user-attachments/assets/0d8dbd84-8647-4bc6-84b0-1279355cda61" width ="20" alt="Devops GIF" title="Devops GIF"> Devops:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)

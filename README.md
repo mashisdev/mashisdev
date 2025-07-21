@@ -8,7 +8,7 @@ I'm a **Java Backend Developer** with a solid foundation in designing and buildi
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24" alt="Skills GIF" title="Skills GIF"> Skills
 
-### 💻 Languages:
+### <img src="https://github.com/user-attachments/assets/c568b6f3-162b-48e8-9035-8055eec40ca0" width ="24" alt="Computer GIF" title="Computer GIF"> Languages:
 [![Java](https://img.shields.io/badge/Java-%238B4513?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

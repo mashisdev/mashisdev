@@ -13,7 +13,7 @@ I'm a **Java Backend Developer** with a solid foundation in designing and buildi
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### 🧰 Frameworks & Libraries:
+### <img src="https://github.com/user-attachments/assets/653b43c4-517c-4ec9-8ec5-fd95ba2a4587" width ="24" alt="Toolbox GIF" title="Toolbox GIF"> Frameworks & Libraries:
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 

@@ -37,7 +37,8 @@ I'm a **Java Backend Developer** with a solid foundation in designing and buildi
 ### <img src="https://github.com/user-attachments/assets/5852398b-203f-49c8-ac2f-05434ded8015" alt="Microservices GIF" width="20" /> Microservices:
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
-### :art: Frontend:
+### <img src="https://github.com/user-attachments/assets/36b81b60-7d76-495d-8f54-193a68579a35" alt="Paint Pallete GIF" width="20" /> Frontend:
+
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)

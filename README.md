@@ -15,7 +15,8 @@ I'm a **Java Backend Developer** with a solid foundation in designing and buildi
 
 ### <img src="https://github.com/user-attachments/assets/653b43c4-517c-4ec9-8ec5-fd95ba2a4587" width ="24" alt="Toolbox GIF" title="Toolbox GIF"> Frameworks & Libraries:
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
 ### <img src="https://github.com/user-attachments/assets/65a33e0b-6663-4caa-aa2b-61e73924e712" width ="20" alt="Database GIF" title="Database GIF"> Databases:
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)

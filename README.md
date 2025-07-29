@@ -25,6 +25,7 @@ I'm a **Java Backend Developer** with a solid foundation in designing and buildi
 ### <img src="https://github.com/user-attachments/assets/642b4bfd-cd04-49c9-8701-329a132bfb7d" width ="20" alt="Security GIF" title="Security GIF"> Security:
 [![JWT](https://img.shields.io/badge/JWT-8E44AD?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
+[![OAuth2](https://img.shields.io/badge/OAuth2-333333?style=for-the-badge&logo=none&logoColor=white)](https://oauth.net/2/)
 
 ### <img src="https://github.com/user-attachments/assets/07254662-defd-4310-843b-a09901b25f02" width ="20" alt="Testing GIF" title="Testing GIF"> Testing:
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)

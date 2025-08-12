@@ -4,7 +4,7 @@
 </div>
 
 ## <img src="https://github.com/user-attachments/assets/76dc0886-6414-45dc-bcc8-6451efadfeac" alt="Comet GIF" title="Comet GIF" width="20" /> About me
-I'm a **Java Backend Developer** with a solid foundation in designing and building RESTful APIs. Passionate about good development practices, clean code, the "code as documentation" philosophy, and green coding. Seeking my first professional opportunity to apply my knowledge in challenging projects and collaborate in a learning and growth-oriented environment. My focus is on writing efficient, maintainable, and sustainable code.
+I am a college student and backend developer with freelance experience looking for my next professional opportunity to apply my skills in challenging projects and collaborate in a learning and growth oriented environment. My focus is on writing <i>efficient, maintainable and sustainable </i> code 🌱🌐.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24" alt="Skills GIF" title="Skills GIF"> Skills
 
